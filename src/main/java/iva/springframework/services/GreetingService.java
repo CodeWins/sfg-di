@@ -1,5 +1,6 @@
-package iva.springframework.sfgdi.services;
+package iva.springframework.services;
 
 public interface GreetingService {
+
     String sayGreeting();
 }

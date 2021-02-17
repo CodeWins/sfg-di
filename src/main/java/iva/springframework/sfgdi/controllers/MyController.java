@@ -1,7 +1,7 @@
 package iva.springframework.sfgdi.controllers;
 
 
-import iva.springframework.sfgdi.services.GreetingService;
+import iva.springframework.services.GreetingService;
 import org.springframework.stereotype.Controller;
 
 @Controller

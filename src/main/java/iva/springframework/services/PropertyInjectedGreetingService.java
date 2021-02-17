@@ -1,4 +1,4 @@
-package iva.springframework.sfgdi.services;
+package iva.springframework.services;
 
 import org.springframework.stereotype.Service;
 

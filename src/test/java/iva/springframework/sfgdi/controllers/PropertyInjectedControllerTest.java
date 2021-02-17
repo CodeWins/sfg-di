@@ -1,6 +1,6 @@
 package iva.springframework.sfgdi.controllers;
 
-import iva.springframework.sfgdi.services.ConstructorGreetingService;
+import iva.springframework.services.ConstructorGreetingService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
